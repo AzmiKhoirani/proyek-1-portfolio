@@ -23,3 +23,22 @@ MEMBUAT PORTFOLIO
 - Buat Kolom Gambar
 - Masukkan Gambar
 
+MEMBUAT CONTACT
+- Buat Title Contact
+- Buat Garis Contact
+- Buat Label Nama
+- Buat Input Nama
+- Buat Label Email
+- Buat Input Email
+- Buat Label No Telepon
+- Buat Input No Telepon
+- Buat Pilih Kategori Dengan Tag Select
+- Buat Label Pesan
+- Buat Text-Area Pesan
+- Buat Button 
+
+MEMBUAT FOOTER
+- Buat Paragraf 
+- Buat Icon Hati
+- Buat Link Ke Facebook
+- Buat Button Link Ke Youtube
