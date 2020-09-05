@@ -11,4 +11,15 @@ MEMBUAT HEADER
 - Buat Elemen Judul
 - Buat Elemen Tagline
 
+MEMBUAT ABOUT
+- Buat Title About
+- Buat Garis About
+- Buat Kolom Kiri
+- Buat Kolom Kanan
+
+MEMBUAT PORTFOLIO
+- Buat Title Portfolio
+- Buat Garis Portfolio
+- Buat Kolom Gambar
+- Masukkan Gambar
 
