@@ -1,0 +1,14 @@
+PERSIAPAN
+- Download Bootsrap
+- Set folder portfolio
+- Buat file index.html
+- Copy basic template
+- Coba class text-center
+
+MEMBUAT HEADER
+- Buat JUMBOTRON
+- Buat Elemen Foto
+- Buat Elemen Judul
+- Buat Elemen Tagline
+
+
